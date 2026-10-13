@@ -46,16 +46,6 @@ export const content = {
         ]
       },
       {
-        id: "govtech",
-        title: "AI Assistant for Singapore's Building Regulatory Approval",
-        subtitle: "Internship Major Project • Sep 2024 - Jan 2025",
-        desc: "Built an AI proof of concept that helps government Processing Officers check building models (IFC-SG / OpenBIM) against agencies' Codes of Practice. Developed a RAG pipeline over the 350-page BCA Accessibility Code; the best pipeline reached an 84.8% completeness ratio. ",
-        tech: ['RAG', 'LangChain', 'ChromaDB', 'OpenAI Assistants API', 'AWS Bedrock', 'Django', 'That Open Engine', 'Prompt Engineering'],
-        links: [
-          { label: "View Final Presentation", url: "/projects/govtech-corenetx-presentation.pdf" }
-        ]
-      },
-      {
         id: "propify",
         title: "Propify: Housing Market Analysis",
         subtitle: "Data Exploration (Group 22) • Apr 2026",
@@ -63,6 +53,16 @@ export const content = {
         tech: ['Data Analysis', 'Python'],
         links: [
           { label: "View Analysis Deck", url: "/projects/propify-analysis.pdf" }
+        ]
+      },
+      {
+        id: "govtech",
+        title: "AI Assistant for Singapore's Building Regulatory Approval",
+        subtitle: "Internship Major Project • Sep 2024 - Jan 2025",
+        desc: "Built an AI proof of concept that helps government Processing Officers check building models (IFC-SG / OpenBIM) against agencies' Codes of Practice. Developed a RAG pipeline over the 350-page BCA Accessibility Code; the best pipeline reached an 84.8% completeness ratio. ",
+        tech: ['RAG', 'LangChain', 'ChromaDB', 'OpenAI Assistants API', 'AWS Bedrock', 'Django', 'That Open Engine', 'Prompt Engineering'],
+        links: [
+          { label: "View Final Presentation", url: "/projects/govtech-corenetx-presentation.pdf" }
         ]
       },
       {
