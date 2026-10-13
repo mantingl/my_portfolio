@@ -4,7 +4,7 @@ const Education = ({ t }) => {
   return (
     <section id="education" className="scroll-mt-32">
       <h3 className="text-3xl font-bold text-stone-900 mb-10 flex items-center border-b border-stone-200 pb-4">
-        <span className="text-stone-300 mr-4 font-light">03.</span> {t.education.title}
+        <span className="text-stone-300 mr-4 font-light">04.</span> {t.education.title}
       </h3>
       
       <div className="grid sm:grid-cols-2 gap-8 mb-12">
